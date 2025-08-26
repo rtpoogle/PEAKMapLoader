@@ -1,1 +1,1 @@
-shitty maploader
+shitty maploader, this is not finished whatsoever and is more a personal project
